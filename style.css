@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+#navbar{
+    height: 80px ;
+    background-color:orange;
+    padding-right: 100px;
+    padding-left: 0px;
+
+}
+
+#hero{
+    height: 90vh;
+    background-color: rgb(130, 81, 16);
+    background-image: url(https://store-images.s-microsoft.com/image/apps.40774.14138153205836858.fd033fd4-2fe1-4634-bce2-6cc42c06c052.7d3a8b14-eb59-46a8-be28-548b8caba8b0);
+    background-size: cover;
+   
+
+}
+
+#logo{
+    height: 80px  ;
+}
+
+ul{
+    float: right;
+    margin-top: 25px;
+
+
+}
+
+li{
+    
+    display: inline;
+    list-style-type: none;
+
+    margin-left: 50px;
+
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
